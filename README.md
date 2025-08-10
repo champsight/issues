@@ -1,7 +1,7 @@
 # ChampSight
 
 <div align="center">
-  <img src="https://champsight.com/static/img/logo.png" alt="League of Legends Champion Stats & Builds" width="240" height="240">
+  <img src="https://champsight.com/static/img/logo.png" alt="ChampSight - League of Legends Champion Stats & Builds" width="240" height="240">
   <p>Report bugs, suggest features, or discuss improvements for ChampSight.</p>
 </div>
 
